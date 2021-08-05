@@ -1,0 +1,22 @@
+
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 200px;
+  border: 1px solid black;
+  margin: 100px auto;
+}
+
+.defaulte {
+  color: rgb(0, 0, 0);
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
